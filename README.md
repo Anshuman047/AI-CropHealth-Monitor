@@ -1,4 +1,7 @@
 # 🌱 AI-Driven Crop Health Monitoring and Efficient Irrigation Management System
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 *Automated Plant Disease Detection & Nutrient Deficiency Analysis with IoT Integration*
 
 ## Abstract
